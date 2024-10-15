@@ -8,4 +8,7 @@ write a new program that uses a loop to draw a pentagon.
 
 """
 
-... # Your code here
+def new_func():
+    ...
+
+new_func() # Your code here
